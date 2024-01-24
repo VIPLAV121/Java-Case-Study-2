@@ -1,0 +1,2 @@
+module CaseStudy2 {
+}
